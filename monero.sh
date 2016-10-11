@@ -1,0 +1,1 @@
+sudo apt-get install build-essential cmake pkg-config libboost-all-dev libdb++-dev libevent-dev libunbound-dev libminiupnpc-dev libunwind8-dev libldns-dev libexpat1-dev libgtest-dev doxygen graphviz -y
